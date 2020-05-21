@@ -1,4 +1,6 @@
-# Darwin
+<h2>Darwin
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Charles_Darwin_by_Maull_and_Polyblank%2C_1855-crop.png/220px-Charles_Darwin_by_Maull_and_Polyblank%2C_1855-crop.png" align="right">
+</h2>
 
 > Also gotta hope nobody creates a module called `Darwin` 😛
 
@@ -6,6 +8,7 @@ Hope dies last, you are welcome.
 
 ![Darwin](https://upload.wikimedia.org/wikipedia/commons/b/b1/Charles_Darwin_Signature.svg)
 
+- [Wikipedia](https://en.wikipedia.org/wiki/Charles_Darwin)
 
 ### Building on Linux:
 
