@@ -25,6 +25,7 @@ Test Suite 'All tests' passed at 2020-05-21 12:11:27.855
 ### Building on macOS:
 
 Compiler crash, what'd you expect?
+[SR-12850](https://bugs.swift.org/browse/SR-12850)
 
 ```shell
 helge@Zini18 Darwin (master)*$ swift build
